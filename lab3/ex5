@@ -1,0 +1,4 @@
+#!/bin/bash 
+./ex5han &
+./ex5gen
+

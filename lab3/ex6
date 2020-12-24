@@ -1,0 +1,3 @@
+#!/bin/bash	
+./ex6han &
+./ex6gen
