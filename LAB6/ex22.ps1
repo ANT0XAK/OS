@@ -1,0 +1,1 @@
+robocopy C:\Windows\myfile Z:\ /Z

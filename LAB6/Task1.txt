@@ -1,0 +1,22 @@
+вначале прописываем в командной строке это 
+Set-ExecutionPolicy Restricted 
+и выбираем А
+Да для всех
+
+Версия ПК
+ver > C:\LAB6\ver.log
+
+Памяти на жестких дисках (запускать в командной строке от имени администратора)
+chkdsk | find "на диске." > C:\LAB6\memory.log
+
+Создать директорию TEST
+md C:\LAB6\TEST
+
+перенести файлы в папку TEST
+move ver.log memory.log TEST
+
+Делаем общий файл
+copy C:\LAB6\ver.log+C:\LAB6\memory.log C:\LAB6\verAndMemory.log
+
+удаляем файлы
+del memory.log ver.log

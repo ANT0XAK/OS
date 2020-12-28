@@ -1,0 +1,414 @@
+Xvdd         XVDD Port Driver       Kernel
+xinputhid    -¨ğùòõ¨-¯øû¹ª¨ HID XIN Kernel
+xboxgip      -¨ğùòõ¨ ÿ¨şªşúşûğ øó¨ş Kernel
+WUDFWpdFs    -¨ğùòõ¨ ¯ğùûşòşù ¸ø¸ªõ Kernel
+WUDFRd       Windows Driver Foundat Kernel
+WudfPf       User Mode Driver Frame Kernel
+WSDScan      ¦şôôõ¨öúğ ¸úğıø¨şòğıø  Kernel
+WSDPrintDevi ¦şôôõ¨öúğ ÿõ¢ğªø WSD   Kernel
+ws2ifsl      -¨ğùòõ¨ WinSock IFS    Kernel
+WpdUpFltr    WPD Upper Class Filter Kernel
+Wof          Windows Overlay File S File System
+WmiAcpi      Microsoft Windows Mana Kernel
+WinVerbs     Tûºöñğ WinVerbs        Kernel        25.04.2018 21:28:00
+WINUSB       -¨ğùòõ¨ WinUsb         Kernel
+WinQuic      WinQuic                Kernel
+WinNat       -¨ğùòõ¨ NAT Windows    Kernel
+WinMad       Tûºöñğ WinMad          Kernel        25.04.2018 21:27:32
+WindowsTrust Windows Trusted Execut Kernel
+WindowsTrust Tûºöñğ ñõ÷şÿğ¸ış¸ªø ôş Kernel
+WIMMount     WIMMount               File System
+WFPLWFS      ¦ûğª¯ş¨üğ ¯øû¹ª¨ğ¡øø M Kernel
+WdNisDrv     Tø¸ªõüıvù ô¨ğùòõ¨ ÿ¨şò Kernel
+WdmCompanion WdmCompanionFilter     Kernel
+wdiwifi      WDI Driver Framework   Kernel
+WdFilter     -¨ğùòõ¨ üøıø-¯øû¹ª¨ğ W File System
+Wdf01000     Tûºöñğ ÿûğª¯ş¨ü ô¨ğùòõ Kernel
+WdBoot       -¨ğùòõ¨ ÷ğó¨º÷úø Windo Kernel
+wcnfs        Windows Container Name File System
+wcifs        Windows Container Isol File System
+wanarpv6     -¨ğùòõ¨ IPv6 ARP ôû  º Kernel
+wanarp       -¨ğùòõ¨ IP ARP ôû  ºôğ Kernel
+WacomPen     Wacom - ô¨ğùòõ¨ ÿõ¨ğ ÿ Kernel
+vwifimp      Virtual WiFi Miniport  Kernel
+vwififlt     Virtual WiFi Filter Dr Kernel
+vwifibus     Virtual Wireless Bus D Kernel
+VSTXRAID     -¨ğùòõ¨ RAID-úşıª¨şûûõ Kernel        22.01.2013 0:00:28
+vsmraid      vsmraid                Kernel        23.04.2014 0:21:41
+vpci         Tø¨ªºğû¹ığ  °øığ PCI M Kernel
+volume       -¨ğùòõ¨ ªşüğ           Kernel
+volsnap      -¨ğùòõ¨ ªõıõòşóş úşÿø¨ Kernel
+volmgrx      -ø¸ÿõª¢õ¨ ôøığüø¢õ¸úø¿ Kernel
+volmgr       -¨ğùòõ¨ ôø¸ÿõª¢õ¨ğ ªşü Kernel
+vmgid        -¨ğùòõ¨ øı¯¨ğ¸ª¨ºúªº¨v Kernel
+VMBusHID     VMBusHID               Kernel
+vmbus        +øığ VMBus             Kernel
+Vid          Vid                    Kernel
+vhf          -¨ğùòõ¨ ÿûğª¯ş¨üv Virt Kernel
+vhdmp        vhdmp                  Kernel
+VerifierExt  ¦ğ¸°ø¨õıøõ ¸¨õô¸ªòğ ÿ¨ Kernel
+vdrvroot     ¦õ¨õ¢ø¸ûøªõû¹ òø¨ªºğû¹ Kernel
+VBoxUSBMon   VirtualBox USB Monitor Kernel        04.09.2020 12:31:05
+VBoxNetLwf   VirtualBox NDIS6 Bridg Kernel        04.09.2020 12:31:05
+VBoxNetAdp   VirtualBox NDIS 6.0 Mi Kernel        04.09.2020 12:31:05
+VBoxDrv      VirtualBox Service     Kernel        04.09.2020 12:31:50
+USBXHCI      xHCI-¸şòüõ¸ªøüvù ¿ş¸ª- Kernel
+usbvideo     USB-òøôõşº¸ª¨şù¸ªòş (W Kernel
+usbuhci      -¨ğùòõ¨ üøıøÿş¨ªğ Micr Kernel
+USBSTOR      -¨ğùòõ¨ ÷ğÿşüøığ¦•ø¿ º Kernel
+usbser       -¨ğùòõ¨ ÿş¸ûõôşòğªõû¹ı Kernel
+usbprint     ¦ûğ¸¸ ÿ¨øıªõ¨şò Micros Kernel
+usbohci      -¨ğùòõ¨ üøıøÿş¨ªğ Micr Kernel
+USBHUB3      ¦şı¡õıª¨ğªş¨ SuperSpee Kernel
+usbhub       Tªğıôğ¨ªıvù ô¨ğùòõ¨ US Kernel
+usbehci      -¨ğùòõ¨ üøıøÿş¨ªğ Micr Kernel
+usbcir       eHome øı¯¨ğú¨ğ¸ıvù ¨õ¸ Kernel
+usbccgp      -¨ğùòõ¨ ºıøòõ¨¸ğû¹ışóş Kernel
+usbaudio2    Tûºöñğ USB Audio 2.0   Kernel
+usbaudio     Lºôøş ô¨ğùòõ¨ USB (WDM Kernel
+UrsSynopsys  -¨ğùòõ¨ ¸ ÿõ¨õúû¦¢õıøõ Kernel
+UrsCx01000   USB Role-Switch Suppor Kernel
+UrsChipidea  -¨ğùòõ¨ ¸ ÿõ¨õúû¦¢õıøõ Kernel
+UmPass       -¨ğùòõ¨ UMPass Microso Kernel
+umbus        UMBus ô¨ğùòõ¨ ÿõ¨õ¢ø¸û Kernel
+ufxsynopsys  USB-úşª¨şûûõ¨ Synopsys Kernel
+UfxChipidea  USB-úşıª¨şûûõ¨ Chipide Kernel
+Ufx01000     USB Function Class Ext Kernel
+UEFI         -¨ğùòõ¨ UEFI (¦ğùú¨ş¸ş Kernel
+udfs         udfs                   File System
+UdeCx        USB Device Emulation S Kernel
+Ucx01000     USB Host Support Libra Kernel
+UcmUcsiCx010 UCM-UCSI KMDF Class Ex Kernel
+UcmUcsiAcpiC ¦ûøõıª ACPI UCM-UCSI   Kernel
+UcmTcpciCx01 UCM-TCPCI KMDF Class E Kernel
+UcmCx0101    USB Connector Manager  Kernel
+UASPStor     -¨ğùòõ¨ USB-º¸ª¨şù¸ªòğ Kernel
+tunnel       -¨ğùòõ¨ ğôğÿªõ¨ğ üøıøÿ Kernel
+TsUsbGD      Lıøòõ¨¸ğû¹ışõ USB-º¸ª¨ Kernel
+TsUsbFlt     -¨ğùòõ¨-¯øû¹ª¨ úûğ¸¸ğ  Kernel
+TPM          TPM                    Kernel
+terminpt     Microsoft Remote Deskt Kernel
+tdx          -¨ğùòõ¨ ÿşôôõ¨öúø NetI Kernel
+tcpipreg     TCP/IP Registry Compat Kernel
+Tcpip6       @todo.dll,-100;Microso Kernel
+Tcpip        -¨ğùòõ¨ ÿ¨şªşúşûğ TCP/ Kernel
+Synth3dVsc   Synth3dVsc             Kernel
+swenum       -¨ğùòõ¨ ÿ¨şó¨ğüüışù °ø Kernel
+storvsc      storvsc                Kernel
+storufs      -¨ğùòõ¨ ôû  ºıøòõ¨¸ğû¹ Kernel
+storqosflt   -¨ğùòõ¨-¯øû¹ª¨ úğ¢õ¸ªò File System
+stornvme     Tªğıôğ¨ªıvù ô¨ğùòõ¨ NV Kernel
+storflt      L¸úş¨øªõû¹ ¿¨ğıøûø•ğ M Kernel
+storahci     Tªğıôğ¨ªıvù ô¨ğùòõ¨ SA Kernel
+StillCam     -¨ğùòõ¨ ¡ø¯¨şòşù ¯şªşú Kernel
+stexstor     stexstor               Kernel        27.11.2012 5:02:51
+SSPORT       SSPORT                 Kernel        12.08.2005 4:07:32
+srvnet       srvnet                 File System
+srv2         -¨ğùòõ¨ ¸õ¨òõ¨ğ Server File System
+SpbCx        Simple Peripheral Bus  Kernel
+SpatialGraph Holographic Spatial Gr Kernel
+spaceport    -¨ğùòõ¨ ôø¸úşòşóş ÿ¨ş¸ Kernel
+SmartSAMD    SmartSAMD              Kernel        17.04.2018 20:29:21
+SiSRaid4     SiSRaid4               Kernel        02.10.2008 2:56:04
+SiSRaid2     SiSRaid2               Kernel        24.09.2008 23:28:20
+SgrmAgent    System Guard Runtime M Kernel
+sfloppy      -ø¸úşòşô ñşû¹°şù õüúş¸ Kernel
+sermouse     -¨ğùòõ¨ üv°ø ôû  ÿş¸û. Kernel
+Serial       -¨ğùòõ¨ ÿş¸ûõôşòğªõû¹ı Kernel
+Serenum      -¨ğùòõ¨ ¯øû¹ª¨ğ Serenu Kernel
+SerCx2       Serial UART Support Li Kernel
+SerCx        Serial UART Support Li Kernel
+sdstor       -¨ğùòõ¨ ÿş¨ªğ SD Stora Kernel
+SDFRd        +ª¨ğöğªõû¹ SDF         Kernel
+sdbus        sdbus                  Kernel
+ScpVBus      Scp Virtual Bus Driver Kernel        06.05.2013 2:31:26
+scmbus       -¨ğùòõ¨ Microsoft °øıv Kernel
+scfilter     -¨ğùòõ¨ ¯øû¹ª¨ğ ¸üğ¨ª- Kernel
+sbp2port     SBP-2 ô¨ğùòõ¨ °øıv ª¨ğ Kernel
+s3cap        s3cap                  Kernel
+rt640x64     Realtek RT640 NT Drive Kernel        27.06.2017 13:42:46
+rspndr       +ªòõ¢ğ¦•õõ º¸ª¨şù¸ªòş  Kernel
+rhproxy      -¨ğùòõ¨ ÿ¨şú¸ø-¸õ¨òõ¨ğ Kernel
+RFCOMM       Bluetooth Device (RFCO Kernel
+ReFSv1       ReFSv1                 File System
+ReFS         ReFS                   File System
+rdyboost     ReadyBoost             Kernel
+RdpVideoMini Remote Desktop Video M Kernel
+RDPDR        -¨ğùòõ¨ ÿõ¨õığÿ¨ğòøªõû Kernel
+rdpbus       -¨ğùòõ¨ °øıv ÿõ¨õığÿ¨ğ Kernel
+rdbss        ¦õ¨õığÿ¨ğòûõıığ  ÿşô¸ø File System
+RasSstp      ¦øıø-ÿş¨ª óûşñğû¹ışù ¸ Kernel
+RasPppoe     -¨ğùòõ¨ PPPOE ôû  ºôğû Kernel
+Rasl2tp      ¦øıø-ÿş¨ª óûşñğû¹ışù ¸ Kernel
+RasAgileVpn  ¦øıø-ÿş¨ª óûşñğû¹ışù ¸ Kernel
+RasAcd       Remote Access Auto Con Kernel
+Ramdisk      Windows RAM Disk Drive Kernel
+QWAVEdrv     -¨ğùòõ¨ QWAVE          Kernel
+Psched       ¦ûğıø¨şò•øú ÿğúõªşò Qo Kernel
+Processor    -¨ğùòõ¨ ÿ¨ş¡õ¸¸ş¨ğ     Kernel
+PptpMiniport ¦øıø-ÿş¨ª óûşñğû¹ışù ¸ Kernel
+portcfg      portcfg                Kernel
+PNPMEM       -¨ğùòõ¨ üşôºû  ÿğü ªø  Kernel
+pmem         -¨ğùòõ¨ ôø¸úğ ¤ıõ¨óşıõ Kernel
+PktMon       Packet Monitor Driver  Kernel
+percsas3i    percsas3i              Kernel        02.06.2018 2:47:02
+percsas2i    percsas2i              Kernel        15.03.2016 5:50:11
+PEAUTH       PEAUTH                 Kernel
+pdc          pdc                    Kernel
+pcw          Performance Counters f Kernel
+pcmcia       pcmcia                 Kernel
+pciide       pciide                 Kernel
+pci          -¨ğùòõ¨ °øıv PCI       Kernel
+partmgr      -¨ğùòõ¨ ¨ğ÷ôõûşò       Kernel
+Parport      -¨ğùòõ¨ ÿğ¨ğûûõû¹ışóş  Kernel
+nvvhci       NVVHCI Enumerator Serv Kernel        10.01.2020 23:31:07
+nvvad_WaveEx NVIDIA Virtual Audio D Kernel        14.03.2019 13:58:48
+nvstor       nvstor                 Kernel        21.04.2014 23:34:03
+nvraid       nvraid                 Kernel        21.04.2014 23:28:42
+nvpciflt     nvpciflt               Kernel        07.11.2020 4:44:24
+NvModuleTrac NvModuleTracker        Kernel        30.11.2019 3:09:01
+nvlddmkm     nvlddmkm               Kernel        07.11.2020 4:57:27
+nvdimm       -¨ğùòõ¨ º¸ª¨şù¸ªòğ (¦ğ Kernel
+Null         Null                   Kernel
+Ntfs         Ntfs                   File System
+nsiproxy     NSI Proxy Service Driv Kernel
+npsvctrig    Named pipe service tri Kernel
+Npfs         Npfs                   File System
+Netwtw06     ___ -¨ğùòõ¨ ğôğÿªõ¨ğ I Kernel        10.09.2019 16:25:59
+netvsc       netvsc                 Kernel
+netfilter2   netfilter2             Kernel        18.09.2016 5:52:38
+NetBT        NetBT                  Kernel
+NetBIOS      NetBIOS Interface      File System
+NetAdapterCx Network Adapter Wdf Cl Kernel
+Ndu          Windows Network Data U Kernel
+ndproxy      NDIS Proxy Driver      Kernel
+NDKPing      NDKPing Driver         Kernel
+ndiswanlegac L¸ªğ¨õò°ğ  òõ¨¸ø  NDIS Kernel
+NdisWan      NDIS-ô¨ğùòõ¨ óûşñğû¹ış Kernel
+NdisVirtualB ¦õ¨õ¢ø¸ûøªõû¹ òø¨ªºğû¹ Kernel
+Ndisuio      NDIS Usermode I/O Prot Kernel
+NdisTapi     NDIS-ô¨ğùòõ¨ TAPI ºôğû Kernel
+NdisImPlatfo ¦¨şªşúşû üºû¹ªøÿûõú¸ş¨ Kernel
+NdisCap      ¦ğ¿òğª Microsoft NDIS  Kernel
+NDIS         Tø¸ªõüıvù ô¨ğùòõ¨ NDIS Kernel
+ndfltr       Tûºöñğ NetworkDirect   Kernel        25.04.2018 21:28:08
+NativeWifiP  Løû¹ª¨ NativeWiFi      Kernel
+mvumis       mvumis                 Kernel        24.05.2014 1:39:04
+Mup          Mup                    File System
+MTConfig     Microsoft Input Config Kernel
+MSTEE        ¦¨õşñ¨ğ÷şòğªõû¹ ÿşªşúş Kernel
+mssmbios     -¨ğùòõ¨ Microsoft Syst Kernel
+MsRPC        MsRPC                  Kernel
+MSPQM        ¦¨õô¸ªğòøªõû¹ ôø¸ÿõª¢õ Kernel
+MSPCLOCK     ¦ş¸¨õôıøú ¸øı¿¨şıø÷ğ¡ø Kernel
+MsLldp       ¦¨şªşúşû Microsoft LLD Kernel
+MSKSSRV      ¦¨õô¸ªğòøªõû¹ ¸ûºöñ ÿş Kernel
+msisadrv     msisadrv               Kernel
+mshidumdf    Túòş÷ışù ô¨ğùòõ¨ HID-U Kernel
+mshidkmdf    Pass-through HID to KM Kernel
+msgpiowin32  +ñ•øù ô¨ğùòõ¨ ôû  úışÿ Kernel
+Msfs         Msfs                   File System
+MsBridge     MAC-üş¸ª (¦ğùú¨ş¸ş¯ª)  Kernel
+mrxsmb20     ¦øıø-ÿõ¨õığÿ¨ğòøªõû¹ S File System
+mrxsmb       +ñşûş¢úğ ø üşôºû¹ üøıø File System
+MRxDAV       -¨ğùòõ¨ ÿõ¨õığÿ¨ğòøªõû File System
+mpsdrv       Windows Defender Firew Kernel
+mountmgr     -ø¸ÿõª¢õ¨ ªş¢õú ÿşôúû¦ Kernel
+mouhid       -¨ğùòõ¨ üv°ø HID       Kernel
+mouclass     -¨ğùòõ¨ úûğ¸¸ğ üv°ø    Kernel
+monitor      Microsoft Monitor Clas Kernel
+Modem        Modem                  Kernel
+MMCSS        Multimedia Class Sched Kernel
+mlx4_bus     ¦õ¨õ¢ø¸ûøªõû¹ °øıv Mel Kernel        25.04.2018 21:29:43
+Microsoft_Bl -¨ğùòõ¨ ª¨ğı¸ÿş¨ªğ AVR Kernel
+MEIx64       Intel(R) Management En Kernel        15.09.2016 22:08:03
+megasr       megasr                 Kernel        04.06.2013 3:02:39
+megasas35i   megasas35i             Kernel        06.12.2018 22:45:11
+megasas2i    megasas2i              Kernel        24.07.2017 14:46:09
+megasas      megasas                Kernel        05.03.2015 7:36:29
+MbbCx        MBB Network Adapter Cl Kernel
+mausbip      -¨ğùòõ¨ IP-¯øû¹ª¨ MA-U Kernel
+mausbhost    -¨ğùòõ¨ ¿ş¸ª-úşıª¨şûûõ Kernel
+luafv        Tø¨ªºğûø÷ğ¡ø  ¯ğùûğ úş File System
+LSI_SSS      LSI_SSS                Kernel        16.03.2013 4:39:38
+LSI_SAS3i    LSI_SAS3i              Kernel        02.05.2018 14:40:30
+LSI_SAS2i    LSI_SAS2i              Kernel        02.08.2017 18:29:59
+LSI_SAS      LSI_SAS                Kernel        26.03.2015 0:36:48
+lltdio       +ªòõª¢øú şñığ¨ºöõıø  ª Kernel
+ksthunk      Kernel Streaming Thunk Kernel
+KSecPkg      KSecPkg                Kernel
+KSecDD       KSecDD                 Kernel
+kneps        kneps                  Kernel
+Klwtp        KLwtp - WFP callout tr Kernel
+klwfp        klwfp                  Kernel
+klupd_klif_m klupd_klif_mark        Kernel        03.10.2020 1:56:52
+klupd_klif_k klupd_klif_klbg        Kernel        03.10.2020 2:00:17
+klupd_klif_k klupd_klif_klark       Kernel        03.10.2020 2:00:18
+klupd_klif_k klupd_klif_kimul       Kernel        22.01.2019 13:00:22
+klupd_klif_a klupd_klif_arkmon      Kernel        03.10.2020 1:53:16
+kltap        Kaspersky Security Dat Kernel        16.03.2018 23:44:54
+klpnpflt     Kaspersky Lab klpnpflt Kernel        06.10.2020 10:18:22
+klpd         Kaspersky Lab format r File System   06.10.2020 10:18:21
+klmouflt     Kaspersky Lab KLMOUFLT Kernel        06.10.2020 10:18:24
+klkbdflt     Kaspersky Lab KLKBDFLT Kernel        06.10.2020 10:18:22
+klim6        Kaspersky Anti-Virus N Kernel
+KLIF         Kaspersky Lab Driver   File System   15.10.2020 2:34:54
+klids        klids                  Kernel        02.10.2020 16:39:36
+klhk         Kaspersky Lab service  Kernel        23.09.2020 16:45:04
+klgse        Kaspersky Lab Security File System   30.09.2020 12:31:30
+klflt        Kaspersky Lab Kernel D Kernel        15.10.2020 2:34:08
+klelam       klelam                 Kernel        07.02.2020 17:22:01
+kldisk       kldisk                 Kernel        06.10.2020 10:18:23
+klbackupflt  Kaspersky Lab klbackup File System   06.10.2020 10:18:25
+klbackupdisk Kaspersky Lab klbackup Kernel        06.10.2020 10:18:40
+kdnic        ¦øıø-ÿş¨ª ¸õªõòşóş ğôğ Kernel
+kbdhid       -¨ğùòõ¨ úûğòøğªº¨v HID Kernel
+kbdclass     -¨ğùòõ¨ úûğ¸¸ğ úûğòøğª Kernel
+ItSas35i     ItSas35i               Kernel        03.05.2018 14:57:21
+iScsiPrt     -¨ğùòõ¨ iScsiPort      Kernel
+isapnp       isapnp                 Kernel
+IPT          IPT                    Kernel
+IPNAT        IP Network Address Tra Kernel
+IPMIDRV      IPMIDRV                Kernel
+IpFilterDriv -¨ğùòõ¨ ¯øû¹ª¨ğ IP-ª¨ğ Kernel
+iorate       -¨ğùòõ¨ ¯øû¹ª¨ğ ¸úş¨ş¸ Kernel
+iocbios2     iocbios2               Kernel        17.04.2017 11:21:40
+intelppm     -¨ğùòõ¨ Intel ÿ¨ş¡õ¸¸ş Kernel
+intelpmax    -¨ğùòõ¨ şó¨ğıø¢õıø  ÿø Kernel
+intelpep     -¨ğùòõ¨ ÿşôúû¦¢ğõüşóş  Kernel
+intelide     intelide               Kernel
+IntcAzAudAdd Service for Realtek HD Kernel        02.05.2017 19:12:59
+IndirectKmd  -¨ğùòõ¨ ¨õöøüğ  ô¨ğ ıõ Kernel
+ICCWDT       Intel(R) Watchdog Time Kernel        04.05.2017 16:42:54
+ibtusb       Intel(R) Wireless Blue Kernel        06.09.2019 11:23:22
+ibbus        Mellanox InfiniBand Bu Kernel        25.04.2018 21:29:09
+iaStorV      RAID-úşıª¨şûûõ¨ Intel  Kernel        11.04.2011 23:48:16
+iaStorAVC    RAID-úşıª¨şûûõ¨ SATA ô Kernel        07.02.2018 16:53:36
+iaStorAfs    iaStorAfs              File System   17.03.2017 19:32:40
+iaStorA      Intel Chipset SATA RAI Kernel        17.03.2017 19:32:24
+iaLPSSi_I2C  -¨ğùòõ¨ Intel(R) Seria Kernel        24.02.2015 20:52:07
+iaLPSSi_GPIO -¨ğùòõ¨ úşıª¨şûûõ¨ğ In Kernel        02.02.2015 14:00:09
+iaLPSS2i_I2C -¨ğùòõ¨ òõ¨¸øøà2 Intel Kernel        19.04.2018 12:52:58
+iaLPSS2i_I2C -¨ğùòõ¨ òõ¨¸øøà2 I2C ô Kernel        17.04.2018 14:24:40
+iaLPSS2i_I2C -¨ğùòõ¨ òõ¨¸øø 2 øıªõ¨ Kernel        17.04.2018 12:06:22
+iaLPSS2i_I2C -¨ğùòõ¨ òõ¨¸øø 2 øıªõ¨ Kernel        16.05.2018 10:46:02
+iaLPSS2i_GPI -¨ğùòõ¨ òõ¨¸øøà2 øıªõ¨ Kernel        17.04.2018 14:25:15
+iaLPSS2i_GPI -¨ğùòõ¨ òõ¨¸øøà2 Intel Kernel        19.04.2018 12:53:24
+iaLPSS2i_GPI -¨ğùòõ¨ òõ¨¸øø 2 øıªõ¨ Kernel        17.04.2018 12:07:03
+iaLPSS2i_GPI -¨ğùòõ¨ òõ¨¸øø 2 øıªõ¨ Kernel        16.05.2018 10:46:36
+iai2c        Intel(R) Serial IO I2C Kernel        23.07.2018 14:04:39
+iagpio       -¨ğùòõ¨ úşıª¨şûûõ¨ğ GP Kernel        23.07.2018 14:04:46
+i8042prt     -¨ğùòõ¨ i8042-úûğòøğªº Kernel
+HyperVideo   HyperVideo             Kernel
+hyperkbd     hyperkbd               Kernel
+hwpolicy     Hardware Policy Driver Kernel
+HwNClx0101   Microsoft Hardware Not Kernel
+hvservice    Hypervisor/Virtual Mac Kernel
+hvcrash      hvcrash                Kernel
+HTTP         HTTP-¸ûºöñğ            Kernel
+HpSAMD       HpSAMD                 Kernel        27.03.2013 2:36:54
+HidUsb       -¨ğùòõ¨ úûğ¸¸ğ HID Mic Kernel
+HIDSwitch    ASUS Wireless Radio Co Kernel        07.08.2019 14:46:16
+hidspi       -¨ğùòõ¨ üøıøÿş¨ªğ ôû   Kernel
+HidIr        Microsoft Infrared HID Kernel
+hidinterrupt +ñ•øù ô¨ğùòõ¨ ôû  úışÿ Kernel
+hidi2c       -¨ğùòõ¨ üøıøÿş¨ªğ ôû   Kernel
+HidBth       Microsoft Bluetooth HI Kernel
+HidBatt      -¨ğùòõ¨ ñğªğ¨õø L+¦ HI Kernel
+HDAudBus     -¨ğùòõ¨ ôû  °øıv UAA ô Kernel
+HdAudAddServ -¨ğùòõ¨ ¯ºıú¡øø UAA ôû Kernel
+Hamachi      LogMeIn Hamachi Virtua Kernel        30.03.2015 18:28:42
+GpuEnergyDrv GPU Energy Driver      Kernel
+GPIOClx0101  Microsoft GPIO Class E Kernel
+genericusbfn +ñ•øù úûğ¸¸ ¯ºıú¡øø US Kernel
+gencounter   T¢õª¢øú ¸ş÷ôğıø  Micro Kernel
+gameflt      gameflt                File System
+fvevol       -¨ğùòõ¨ ¯øû¹ª¨ğ °ø¯¨şò Kernel
+FsDepends    File System Dependency File System
+FltMgr       -ø¸ÿõª¢õ¨ ¯øû¹ª¨şò     File System
+flpydisk     -¨ğùòõ¨ ôø¸úşòşôğ óøñú Kernel
+Filetrace    Filetrace              File System
+FileInfo     File Information FS Mi File System
+FileCrypt    FileCrypt              File System
+fdc          -¨ğùòõ¨ úşıª¨şûûõ¨ğ óø Kernel
+fastfat      FAT12/16/32 File Syste File System
+FACEIT       FACEIT                 Kernel        25.09.2020 14:42:30
+exfat        exFAT File System Driv File System
+esif_lf      esif_lf                Kernel        10.08.2016 23:43:26
+ErrDev       Microsoft Hardware Err Kernel
+EhStorTcgDrv -¨ğùòõ¨ ¦ğùú¨ş¸ş¯ª ôû  Kernel
+EhStorClass  Enhanced Storage Filte Kernel
+ebdrv        Lôğÿªõ¨ QLogic 10 Giga Kernel        25.05.2016 12:01:05
+DXGKrnl      LDDM Graphics Subsyste Kernel
+drmkaud      -şòõ¨õııvõ ğºôøşô¨ğùòõ Kernel
+dptf_cpu     dptf_cpu               Kernel        10.08.2016 23:43:11
+dptf_acpi    dptf_acpi              Kernel        10.08.2016 23:43:11
+dmvsc        dmvsc                  Kernel
+disk         -¨ğùòõ¨ ôø¸úğ          Kernel
+Dfsc         -¨ğùòõ¨ úûøõıªğ ÿ¨ş¸ª¨ File System
+dam          Desktop Activity Moder Kernel
+condrv       Console Driver         Kernel
+CompositeBus -¨ğùòõ¨ ÿõ¨õ¢ø¸ûøªõû   Kernel
+cnghwassist  CNG Hardware Assist al Kernel
+CNG          CNG                    Kernel
+CmBatt       -¨ğùòõ¨ ñğªğ¨õø ¸ ACPI Kernel
+cm_km        AO Kaspersky Lab Crypt Kernel        06.10.2020 10:18:30
+CLFS         Common Log (CLFS)      Kernel
+CldFlt       Windows Cloud Files Fi File System
+circlass     ¦şª¨õñøªõû¹¸úøõ L¦-º¸ª Kernel
+cht4vbd      -¨ğùòõ¨ òø¨ªºğû¹ışù °ø Kernel        08.05.2018 18:23:38
+cht4iscsi    cht4iscsi              Kernel        08.05.2018 18:27:04
+cdrom        -¨ğùòõ¨ CD-ROM ôø¸úşòş Kernel
+cdfs         CD/DVD File System Rea File System
+CAD          -¨ğùòõ¨ òvıõ¸õıø  ¨õ°õ Kernel
+buttonconver Tûºöñğ ôû  º¸ª¨şù¸ªò ú Kernel
+bttflt       Løû¹ª¨ Microsoft Hyper Kernel
+BTHUSB       -¨ğùòõ¨ ÿş¨ªğ USB ¨ğôø Kernel
+BTHPORT      -¨ğùòõ¨ ÿş¨ªğ Bluetoot Kernel
+BthPan       L¸ª¨şù¸ªòğ Bluetooth ( Kernel
+BTHMODEM     -¨ğùòõ¨ ¸ò ÷ø Bluetoot Kernel
+BthMini      -¨ğùòõ¨ ¨ğôøş Bluetoot Kernel
+BthLEEnum    -¨ğùòõ¨ Bluetooth ¸ ıø Kernel
+BthHFEnum    -¨ğùòõ¨ ÿ¨ş¯øû  óğ¨ıøª Kernel
+BthHFAud     -¨ğùòõ¨ ÷òºúğ óğ¨ıøªº¨ Kernel
+BthEnum      Tûºöñğ ÿõ¨õ¢ø¸ûøªõû  B Kernel
+BthA2dp      Microsoft Bluetooth A2 Kernel
+bowser       +¨ğº÷õ¨                File System
+BlueStacksDr BlueStacks Hypervisor  Kernel        21.01.2019 17:57:48
+bindflt      Windows Bind Filter Dr File System
+Beep         Beep                   Kernel
+bcmfn2       bcmfn2 Service         Kernel        01.11.2016 7:09:15
+BasicRender  BasicRender            Kernel
+BasicDisplay BasicDisplay           Kernel
+bam          Background Activity Mo Kernel
+b06bdrv      Tõªõòşù ğôğÿªõ¨ VBD QL Kernel        25.05.2016 12:03:08
+ATKWMIACPIIO ATKWMIACPI Driver      Kernel        02.07.2013 13:35:32
+atapi        ¦ğığû IDE              Kernel
+AsyncMac     -¨ğùòõ¨ ğ¸øı¿¨şıışóş ı Kernel
+AsusPTPDrv   ASUS Touch Service     Kernel        15.04.2019 11:42:30
+arcsas       Adaptec SAS/SATA-II RA Kernel        10.04.2015 0:12:07
+applockerflt -¨ğùòõ¨ ¯øû¹ª¨ğ Smartl Kernel
+AppID        -¨ğùòõ¨ AppID          Kernel
+amdxata      amdxata                Kernel        01.05.2015 5:55:35
+amdsbs       amdsbs                 Kernel        12.12.2012 2:21:44
+amdsata      amdsata                Kernel        14.05.2015 17:14:52
+AmdPPM       -¨ğùòõ¨ ÿ¨ş¡õ¸¸ş¨ğ AMD Kernel
+AmdK8        AMD K8 ô¨ğùòõ¨ ÿ¨ş¡õ¸¸ Kernel
+amdi2c       AMD I2C Controller Ser Kernel        13.06.2018 10:25:43
+amdgpio2     AMD GPIO Client Driver Kernel        07.02.2019 14:32:20
+AiCharger    ASUS Charger Driver    Kernel        08.08.2016 14:24:00
+ahcache      Application Compatibil Kernel
+afunix       afunix                 Kernel
+AFD          -¨ğùòõ¨ ôşÿşûıøªõû¹ıv¿ Kernel
+ADP80XX      ADP80XX                Kernel        10.04.2015 1:49:48
+Acx01000     Acx01000               Kernel
+acpitime     -¨ğùòõ¨ ACPI Wake Alar Kernel
+AcpiPmi      -¨ğùòõ¨ º¸ª¨şù¸ªòğ ø÷ü Kernel
+acpipagr     -¨ğùòõ¨ ğó¨õóğªş¨ğ ÿ¨ş Kernel
+acpiex       Microsoft ACPIEx Drive Kernel
+AcpiDev      -¨ğùòõ¨ º¸ª¨şù¸ªò ¸ AC Kernel
+ACPI         -¨ğùòõ¨ Microsoft ACPI Kernel
+3ware        3ware                  Kernel        19.05.2015 3:28:03
+1394ohci     1394 OHCI-¸şòüõ¸ªøüvù  Kernel
+¦şôºû¹       =ğ÷òğıøõ               Tøÿ ô¨ğùòõ¨ğ  -ğªğ ¸¸vûúø
+============ ====================== ============= ======================
